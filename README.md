@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/{name}.png  ← 
 | --- | --- |
 | `[TW-I] 02 NHK` | `https://ivan8794.github.io/epg-logos/logos/%5BTW-I%5D%2002%20NHK.png` |
 | `[TW-I] 04 東森新聞 HD` | `https://ivan8794.github.io/epg-logos/logos/%5BTW-I%5D%2004%20%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%20HD.png` |
-| `[myTV SUPER] 81 翡翠台|H265|字幕` | `https://ivan8794.github.io/epg-logos/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0%7CH265%7C%E5%AD%97%E5%B9%95.png` |
+| `[myTV SUPER] 81 翡翠台&#124;H265&#124;字幕` | `https://ivan8794.github.io/epg-logos/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0%7CH265%7C%E5%AD%97%E5%B9%95.png` |
 
 不想自己拼 URL 的话，直接查索引表：
 
