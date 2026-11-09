@@ -1,0 +1,50 @@
+name: Update TV Logos
+
+on:
+  schedule:
+    # 每天 11:30（北京时间，UTC+8）自动更新
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-logos
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --quiet --disable-pip-version-check pillow
+
+      - name: Build logo library from EPG
+        run: python scripts/build.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+          else
+            git commit -m "chore: 更新台标 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
