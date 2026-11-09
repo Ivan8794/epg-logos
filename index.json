@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09 12:35:54",
+ "updated": "2026-11-09 12:56:57",
  "timezone": "UTC+8",
  "epg": [
   "https://myeth-epg.github.io/public/epg.a.xml"
  ],
  "base_url": "https://ivan8794.github.io/epg-logos/logos/",
- "count": 1680,
+ "count": 1682,
  "logos": [
   {
    "name": "[TW-I] 01 TAIWAN PLUS+",
@@ -14102,6 +14102,15 @@
    "source_icon": "https://static.skylife.co.kr/upload/channel/201903/MBC_logo.png"
   },
   {
+   "name": "[KR-I] 13 EBS1",
+   "file": "logos/[KR-I] 13 EBS1.png",
+   "url": "https://ivan8794.github.io/epg-logos/logos/%5BKR-I%5D%2013%20EBS1.png",
+   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BKR-I%5D%2013%20EBS1.png",
+   "group": "KR-I",
+   "channel_id": "skylife.ebs",
+   "source_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1920px-EBS_1TV_Logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail"
+  },
+  {
    "name": "[KR-I] 14 애니플러스",
    "file": "logos/[KR-I] 14 애니플러스.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5BKR-I%5D%2014%20%EC%95%A0%EB%8B%88%ED%94%8C%EB%9F%AC%EC%8A%A4.png",
@@ -14649,6 +14658,15 @@
    "group": "CA-II",
    "channel_id": "pw.CA.omni.prairies",
    "source_icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/omni-television-ca.png"
+  },
+  {
+   "name": "0123 JoyTV BC",
+   "file": "logos/0123 JoyTV BC.png",
+   "url": "https://ivan8794.github.io/epg-logos/logos/0123%20JoyTV%20BC.png",
+   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/0123%20JoyTV%20BC.png",
+   "group": "CA-II",
+   "channel_id": "pw.CA.ytv",
+   "source_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/500px-Joytvlogo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail"
   },
   {
    "name": "0125 APTN",

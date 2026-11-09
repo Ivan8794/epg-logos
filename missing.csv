@@ -1,0 +1,769 @@
+﻿频道名称（与EPG一致）,缺失原因,EPG里的图标源,分组,频道ID
+[TW-III] 300 華人創作音樂台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/t3230.png,TW-III,0
+[TW-III] 301 CSTV情境音樂台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/t3230.png,TW-III,0
+[TW-III] 302 吉馬欣代音樂,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/t3227.png,TW-III,0
+052 華視新聞,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/東森新聞0.png,TW-V,pw.TW.華視新聞資訊.mod
+192 倪珍播新聞,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/t5192.png,TW-V,0
+010 DAZN,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/0.png,TW-VI,myvideo.DAZN體育台
+012 MyVideo體育台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons2/0.png,TW-VI,myvideo.MyVideo體育台
+[NowTV] 801 Now App Extra,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/n0.png,HK-II,0
+[NowTV] 811 Now App Extra,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/n0.png,HK-II,0
+[NBA] 01 NBA TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/.png,US,464912
+[astro] 808 Astro Premier League 4,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,MY-I,pw.MY.astro.premier.league.4
+[astro] 809 Astro Premier League 5,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,,pw.MY.astro.premier.league.5
+[US-II] 001 NBA 24/7 TV (APP),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 002 NBA 24/7 Channel 1 (NBA Now),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 003 NBA 24/7 Channel 2 (Finals Champion Channel),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 004 NBA 24/7 Channel 3 (NBA Summer League Channel),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 009 NFL Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,charm.sling.nflnetwork
+[US-II] 010 GolfPass,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 011 Premier League TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[US-II] 012 WWE Network,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,US-II,0
+[UK-I] 423 LFCTV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ub423.png,UK-I,pw.UK.lfctv
+116 Karisma,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/sg0.png,SG-I,pw.SG.karisma.a
+124 ONE (Malay),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+125 Zee TV HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.zee.tv.a
+127 Sony Entertainment Television,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.sony.entertainment.television.starhubtv
+131 SONY MAX,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.sony.max.a
+135 Vijay TV HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.vijay.tv.starhubtv
+136 Vannathirai,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+141 Kalaignar TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.kalaignar.tv.a
+144 The Filipino Channel HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.the.filipino.channel.a
+152 TV5MONDE HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.tvmonde.5.starhubtv
+207 Hub Sports 7 HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.hub.sports.7.b
+208 Hub Sports 8 HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,pw.SG.hub.sports.8.b
+227 Hub Premier 7,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+229 Hub Premier 9,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+230 Hub Premier 10,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+231 Hub Premier 11,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/0.png,SG-I,0
+111 mio Sports,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.mio.sports.a
+112 mio Sports 2,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.mio.sports.2.a
+113 mio Sports 3,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.mio.sports.3.a
+119 Fight Sports (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.fight.sports.b
+141 FIFA World Cup CH01,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.fifa.a
+142 FIFA World Cup CH02,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.fifa.a
+167 CNN International,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.cnn.a
+206 C+I (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.crime.investigation.b
+211 CGTN-Documentary,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.cgtn.a
+259 (HD) Outdoor Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.outdoor.channel.a
+512 now Jelli (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.now.jelli.a
+513 ONE HD (Mandarin),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,0
+516 TVBS News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,charm.starhub.tvbsnews
+521 ETTV Asia (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,charm.starhub.ettvasia
+534 CCTV Entertainment,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.cctv.entertainment.a
+535 Dragon TV Intl,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,charm.starhub.dragontv
+536 Hunan International,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.hunan.international.a
+537 BRTV International,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.brtv.international.a
+538 China Movie Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.china.movie.channel.a
+547 Phoenix InfoNews,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,charm.starhub.phoenixinfonews
+561 ETTV Asia News (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.ettv.asia.b
+604 ONE HD (Malay),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,0
+610 Citra Drama (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.citra.drama.a
+618 Drama Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.drama.channel.a
+628 Adithya TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.adithya.tv.b
+630 Sony YAY,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.sony.yay.a
+632 Zee Tamil HD,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.zee.tamil.a
+634 Vijay TV (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.vijay.tv.starhubtv
+639 Asianet Movies,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.asianet.movies.b
+644 SET (HINDI),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.set.hindi.a
+646 Zee TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.zee.tv.a
+648 SAB TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.sab.tv.a
+654 Star Bharat,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.star.bharat.a
+656 STAR Plus,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.star.plus.a
+658 MTV India,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.mtv.india.a
+662 STAR Gold,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.star.gold.a
+668 Sony MAX,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.sony.max.a
+670 maa movies,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.maa.movies
+671 Star Maa,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.star.maa.a
+676 Times Now,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.times.now.a
+677 Zoom TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.zoom.tv.a
+680 WION,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.wion.a
+688 GMA Pinoy TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.gma.pinoy.tv.a
+689 GMA Life TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.gma.life.tv.a
+690 GMA News TV Intl,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.gma.news.tv.a
+693 The Filipino Ch (HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.the.filipino.ch.a
+694 ABS-CBN News Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons3/0.png,SG-II,pw.SG.abs.cbn.news.channel.a
+[Indonesia] 010 ELSHINTA TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,Elshinta TV
+[Indonesia] 011 GLOBAL TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.gtv
+[Indonesia] 023 NET,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.net.tv
+[Indonesia] 023 NET (a),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.net.tv
+[Indonesia] 024 NUSANTARA TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.nusantara.tv
+[Indonesia] 027 RODJA TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,dens.rodjatv
+[Indonesia] 027 RODJA TV (a),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,dens.rodjatv
+[Indonesia] 038 TVRI NASIONAL,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.tvri
+[Indonesia] 038 TVRI NASIONAL (a),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.tvri
+[Indonesia] 039 ZEE BIOSKOP,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,ID,pw.ID.zee.bioskop
+[AIS] 002 NBT 2 HD (เอ็นบีที 2 เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.nbt2hd
+[AIS] 003 TPBS (ไทยพีบีเอส เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.tpbs
+[AIS] 005 CH5 HD (5 เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.ch5hd
+[AIS] 007 T-Sports 7 (ทีสปอร์ต 7),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.tsports7
+[AIS] 010 Parliament (สถานีวิทยุโทรทัศน์รัฐสภา),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.parliament
+[AIS] 016 TNN (ทีเอ็นเอ็น),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.tnn24
+[AIS] 022 Nation TV (เนชั่น ชาแนล),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.nationtv
+[AIS] 023 Workpoint TV (เวิร์คพอยท์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.workpointtv
+[AIS] 024 True 4 U (ทรูโฟร์ยู),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.true4u
+[AIS] 025 GMM25 (จีเอ็มเอ็ม 25),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.gmm25
+[AIS] 030 MCOT HD (เอ็มคอท เอชดี 30),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.mcothd
+[AIS] 031 ONE 31 HD (วัน เอชดี 31),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.one31hd
+[AIS] 032 Thairath TV HD (ไทยรัฐทีวี เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.thairathtvhd
+[AIS] 033 3 HD (3 เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.3hd
+[AIS] 034 AmarinTV HD (อมรินทร์ ทีวี เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.amarintvhd
+[AIS] 036 PPTV HD (พีพีทีวี เอชดี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.pptvhd
+[AIS] 205 Boomerang (บูมเมอแรง),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.boomerang
+[AIS] 206 Mango Mojito (แมงโก้ โมฮิโต้),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 307 TV5MONDE (เตเวแซ็งก์มงด์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 308 Arirang (อารีรัง),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,trueid.arirang
+[AIS] 309 Hunan TV (ฮูนาน ทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,openepg.HunanTVHD.th
+[AIS] 313 RT Documentary (สารคดีรัสเซีย),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 607 Channel News Asia (ชาแนลนิวส์เอเชีย),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 611 TVBS News (ข่าวทีวีบีเอส),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 613 RT Channel (รัสเซียชาแนล),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 617 TOP News (ท็อปนิวส์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 618 News 1 (นิวส์1),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 716 ETV (กศน. (อีทีวี)),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 801 LunthungTV (ลั่นทุ่ง ทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[AIS] 802 MVTV (เอ็มวีทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH,0
+[TrueID] 001 YATEEM TV (ยาตีมทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.tidyateemtv
+[TrueID] 002 TOP News (ท็อปนิวส์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.tidtopnews
+[TrueID] 003 Thaichaiyo (ไทไชโย),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,0
+[TrueID] 004 NEWS1 (นิวส์วัน),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.newsnewss1
+[TrueID] 005 Top TV (ท็อปทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,0
+[TrueID] 006 Boomerang (บูมเมอแรง),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.boomerang
+[TrueID] 007 White Channel (ไวท์แชนแนล),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,0
+[TrueID] 008 TPTV - Thai Parliament TV (ทีพีทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.parliament
+[TrueID] 009 GMM 25 (จีเอ็มเอ็ม 25),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.gmm25
+[TrueID] 010 True4U (ทรูโฟร์ยู),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.true4u
+[TrueID] 011 CH3 HD (ช่อง 3 HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.3hd
+[TrueID] 012 NBT (เอ็นบีที),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.nbt2hd
+[TrueID] 013 Thairath TV HD (ไทยรัฐ ทีวี HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.thairathtvhd
+[TrueID] 014 PPTV (พีพีทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.pptvhd
+[TrueID] 015 TPBS (ไทยพีบีเอส),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.tpbs
+[TrueID] 017 True Little Monk Reality (สามเณรปลูกปัญญาธรรม),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.realitychannelhd
+[TrueID] 018 Amarin TV (อมรินทร์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.amarintvhd
+[TrueID] 019 Nation TV 22 (เนชั่น ทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.nationtv
+[TrueID] 020 Workpoint TV (เวิร์คพอยท์ ทีวี),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.workpointtv
+[TrueID] 022 CH 5 (ช่อง 5),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.ch5hd
+[TrueID] 023 CH 7HD (ช่อง 7HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.ch7hd
+[TrueID] 024 True Plookpanya (ทรู ปลูกปัญญา),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,0
+[TrueID] 025 9 MCOT HD (9 เอ็มคอต HD),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,TH-II,trueid.mcothd
+[AIS] 029 MONOMAX SPORTS (โมโนแมกซ์ สปอร์ตส์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,,trueid.mono
+[KR-I] 01 중화TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.중화tv
+[KR-I] 07 CJ 온스타일+,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.cj.온스타일
+[KR-I] 22 매일경제TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.매일경제tv
+[KR-I] 25 ANIBOX,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.애니박스
+[KR-I] 34 히스토리,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.히스토리
+[KR-I] 40 MBC 라디오 시사,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/ic1ons5/0.png,KR-I,skylife.mbc
+[KR-I] 41 JTBC news 아카이브,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.jtbc
+[KR-I] 42 TV CHOSUN NEWS24,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 43 JTBC news NOW,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.jtbc
+[KR-I] 44 SBS No.1 뉴스라이브,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.sbs
+[KR-I] 45 MBN NEWS,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.mbn
+[KR-I] 46 KBS 인간극장,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 47 KBS 역사저널 그날,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 48 KBS 사극,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 49 KBS 주말드라마 명작,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 50 MBC 라디오 예능,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.mbc
+[KR-I] 51 KBS 사랑과 전쟁,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,0
+[KR-I] 52 KBS 1박 2일,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.kbs1
+[KR-I] 53 MBC 뉴스,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.mbc
+[KR-I] 54 한국경제TV 글로벌,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 55 머니투데이방송,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,MTN 머니투데이방송.kr
+[KR-I] 56 MBC 무한도전,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 57 MBC 나 혼자 산다,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 58 채널A NEWS,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 59 MBC 거침없이 하이킥,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 60 MBC 놀면 뭐하니,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 61 MBC 전지적 참견 시점,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 62 MBC 심야괴담회,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[KR-I] 63 MBC 오은영리포트 결혼지옥,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,,0
+[America] 01 MLB Network,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca01.png,US,465239
+[America] 05 ESPN U,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca05.png,US,465108
+[America] 201 東森中国台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca201.png,US,charm.sling.etchina
+[America] 209 超視美洲台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca209.png,US,0
+[America] 210 東森美洲衛視,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca210.png,US,charm.sling.etglobal
+[America] 212 東森美洲台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca212.png,US,charm.sling.etnews
+[America] 213 中旺電視台,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/uca213.png,US,0
+[Peacock] 01 Dateline 24/7,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp01.png,US,iptvepg.PEACOCKTV-Dateline24/7
+[Peacock] 03 NBC Sports on Peacock,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp03.png,US,iptvepg.PEACOCKTV-NBCSportsNOW
+[Peacock] 04 SNL Vault,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp04.png,US,iptvepg.PEACOCKTV-SNLVault
+[Peacock] 05 LOL! Network,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp05.png,US,0
+[Peacock] 06 This Old House,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp06.png,US,epgshare01.[THISOH]ThisOldHouse
+[Peacock] 07 Nosey,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp07.png,US,iptvepg.PEACOCKTV-Nosey
+[Peacock] 08 Confess by Nosey,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp08.png,US,0
+[Peacock] 09 MovieSphere by Lionsgate,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp09.png,US,iptvepg.PEACOCKTV-MovieSpherebyLionsgate
+[Peacock] 10 Ghost Hunters Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp10.png,US,0
+[Peacock] 11 Ebony TV by Lionsgate,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp11.png,US,0
+[Peacock] 12 Telemundo Al Dia,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp12.png,US,iptvepg.PEACOCKTV-TelemundoAlDia
+[Peacock] 13 NFL Channel,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp13.png,US,iptvepg.PEACOCKTV-NFLChannel
+[Peacock] 14 GolfPass,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp14.png,US,epgshare01.[PK24]GOLFPASS
+[Peacock] 15 Premier League TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp15.png,US,iptvepg.PEACOCKTV-PremierLeagueTV
+[Peacock] 16 WWE Network,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp16.png,US,epgshare01.[PK6]WWENetwork
+[Peacock] 17 TEAM USA TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp17.png,US,iptvepg.PEACOCKTV-TEAMUSATV
+[Peacock] 18 Law & Crime Network,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp18.png,US,iptvepg.US-LawandCrimeRewind
+[Peacock] 19 Top Gear,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp19.png,US,iptvepg.PEACOCKTV-TopGear
+[Peacock] 20 TODAY All Day,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp20.png,US,iptvepg.PEACOCKTV-TODAYAllDay
+[Peacock] 22 Noticias Telemundo Ahora,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp22.png,US,iptvepg.PEACOCKTV-NoticiasTelemundoAhora
+[Peacock] 23 NBC Chicago News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp23.png,US,iptvepg.PEACOCKTV-NBCChicagoNews
+[Peacock] 24 NBC New York News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp24.png,US,iptvepg.PEACOCKTV-NBCNewYorkNews
+[Peacock] 25 NBC Philadelphia News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp25.png,US,iptvepg.PEACOCKTV-NBCPhiladelphiaNews
+[Peacock] 26 NBC South Florida News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp26.png,US,iptvepg.PEACOCKTV-NBCSouthFloridaNews
+[Peacock] 27 NBC Boston News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp27.png,US,iptvepg.PEACOCKTV-NBCBostonNews
+[Peacock] 28 NBC Los Angeles News,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp28.png,US,iptvepg.PEACOCKTV-NBCLosAngelesNews
+[Peacock] 29 Circle Country,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucp29.png,US,0
+[Peacock] 30 NBC LX Home,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucn01.png,US,iptvepg.PEACOCKTV-NBCLXHome
+[CRAVE] 07 Sego1,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc07.png,CA,pw.CA.super.cran
+[CRAVE] 08 Sego2,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc08.png,CA,pw.CA.super.cran.2
+[CRAVE] 09 Sego3,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc09.png,CA,pw.CA.super.cran.3
+[CRAVE] 10 Sego4,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc10.png,CA,pw.CA.super.cran.4
+0114 APTN Languages,图标源失效：HTTP 404: Not Found,https://www.aptntv.ca/wp-content/themes/aptntv-main/images/APTN%20Languages%20logo-VERT%20COL.png,CA-II,pw.CA.aptn.languages
+Miami TV Latino,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Jenny Live,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Music,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Gold,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Life,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV DJ,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Fashion,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Foods,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Mystery,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Models,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Spain,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Health,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Cuaima,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV LIVE Streaming,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Hilton Miami Aventura,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Miami TV Events,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+V2Beat,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+Radiom20,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TotalMusic,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TotalMusic 80s,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TotalMusic 2000s,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TotalMusic Concerts,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TotalMusic Dance,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
+TelusTV 111 TSN 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 113 Sportsnet 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 114 Sportsnet One 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 115 Travel XP 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 116 INULTRA 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 117 Stingray Now 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 118 Stingray Ambiance 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+TelusTV 119 Stingray Festival 4K,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons/f.png,4K-UHD,0
+[TW-II] 2115 麥卡貝綜藝,EPG 未提供 <icon>,,TW-II,charm.hami.麥卡貝綜藝
+[TW-II] 2124 Hami大聯盟1台,EPG 未提供 <icon>,,TW-II,charm.hami.hami大聯盟1台
+[TW-II] 2125 Hami大聯盟2台,EPG 未提供 <icon>,,TW-II,charm.hami.hami大聯盟2台
+[TW-II] 2126 Hami熱播台,EPG 未提供 <icon>,,TW-II,hami.Hami亞運熱播台
+[TW-III] 107 軍武大觀,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 106 永康情報局,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 108 政治狠狠問,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 110 謝龍介直播,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 130 台灣啟示錄,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 145 小宇宙大爆發(健康),EPG 未提供 <icon>,,TW-III,0
+[TW-III] 306 花甲少年趣旅行,EPG 未提供 <icon>,,TW-I,0
+[TW-III] 303 全民星攻略,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 304 行動電源出發吧,EPG 未提供 <icon>,,TW-III,0
+[TW-III] 753 SECT35(測試),EPG 未提供 <icon>,,TW-III,0
+[TW-III] 997 歡樂看入戲太深篇(V),EPG 未提供 <icon>,,TW-III,0
+[TW-III] 996 歡樂看熱血青年篇(V),EPG 未提供 <icon>,,TW-III,0
+088 灣聲線上音樂廳,EPG 未提供 <icon>,,TW-IV,charm.4gtv.灣聲線上音樂廳
+140 OUTtv,EPG 未提供 <icon>,,TW-IV,pw.TW.outtv
+161 好消息2台,EPG 未提供 <icon>,,TW-IV,pw.TW.好消息2台.4gtv
+[NowTV] 628 Sports 英超8台|比賽時開放,EPG 未提供 <icon>,,HK-II,charm.nowtv.nowsports英超8台
+[NowTV] 629 Sports 英超9台|比賽時開放,EPG 未提供 <icon>,,HK-II,charm.nowtv.nowsports英超9台
+[BreadTV] 01 面包台,EPG 未提供 <icon>,,HK,0
+[UTV] 01 C++,EPG 未提供 <icon>,,HK,0
+[ChinaSun] 01 陽光衛視,EPG 未提供 <icon>,,HK,507293
+[astro] 818 Astro Tennis 2,EPG 未提供 <icon>,,MY-I,astro.280.tennis2
+[astro] 823 Astro Sports Plus 2,EPG 未提供 <icon>,,MY-I,0
+[astro] 834 GOLF PLUS,EPG 未提供 <icon>,,MY-I,0
+107 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+108 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+109 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+110 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+115 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+116 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+109 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
+111 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
+115 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
+109 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
+112 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
+116 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
+110 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
+113 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
+117 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
+113 FIFA U-17 WWC Ch01,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifau17wwcch01
+114 FIFA U-17 WWC Ch02,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifau17wwcch02
+109 MasterChef,EPG 未提供 <icon>,,SG-III,charm.mewatch.masterchef
+110 Deal or No Deal,EPG 未提供 <icon>,,SG-III,charm.mewatch.dealornodeal
+111 Fear Factor,EPG 未提供 <icon>,,SG-III,charm.mewatch.fearfactor
+112 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+113 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+114 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+115 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+116 Action Hollywood,EPG 未提供 <icon>,,SG-III,charm.mewatch.actionhollywoodmovies
+117 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+118 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+119 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+120 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+123 Kartoon Channel!,EPG 未提供 <icon>,,SG-III,charm.mewatch.kartoonchannel
+124 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+110 MasterChef,EPG 未提供 <icon>,,SG-III,charm.mewatch.masterchef
+111 Deal or No Deal,EPG 未提供 <icon>,,SG-III,charm.mewatch.dealornodeal
+112 Fear Factor,EPG 未提供 <icon>,,SG-III,charm.mewatch.fearfactor
+113 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+114 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+115 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+116 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+117 Action Hollywood,EPG 未提供 <icon>,,SG-III,charm.mewatch.actionhollywoodmovies
+118 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+119 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+120 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+121 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+124 Kartoon Channel!,EPG 未提供 <icon>,,SG-III,charm.mewatch.kartoonchannel
+125 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+114 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+115 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+116 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+117 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+119 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+120 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+121 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+122 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+126 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+115 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+116 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+117 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+118 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+120 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+121 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+122 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+123 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+127 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+117 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+118 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+119 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+120 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+122 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+123 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+124 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+125 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+129 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+118 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+119 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+120 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+121 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+123 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+124 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+125 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+126 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+130 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+119 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+120 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+121 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+122 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+124 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+125 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+126 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+127 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+131 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+121 River Monsters,EPG 未提供 <icon>,,SG-III,charm.mewatch.rivermonsters
+122 That's 80s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats80s
+123 That's 70s,EPG 未提供 <icon>,,SG-III,charm.mewatch.thats70s
+124 That's Rock,EPG 未提供 <icon>,,SG-III,charm.mewatch.thatsrock
+126 Filem Mantap,EPG 未提供 <icon>,,SG-III,charm.mewatch.filemmantap
+127 Drama Hebat,EPG 未提供 <icon>,,SG-III,charm.mewatch.dramahebat
+128 Vijay Takkar,EPG 未提供 <icon>,,SG-III,charm.mewatch.vijaytakkar
+129 FIFA+,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifa
+133 TG Junior,EPG 未提供 <icon>,,SG-III,charm.mewatch.tgjunior
+001 NHK WORLD,EPG 未提供 <icon>,,JP-I,pw.JP.nhkworld
+003 FU JI (富士電視台),EPG 未提供 <icon>,,JP-I,pw.JP.fuji
+007 TV Osaka (テレビ大阪),EPG 未提供 <icon>,,JP-I,0
+017 TOKYO MX 1,EPG 未提供 <icon>,,JP-I,pw.JP.tokyomx1
+018 TOKYO MX 2,EPG 未提供 <icon>,,JP-I,pw.JP.tokyomx2
+019 Fuji TV ONE (フジテレビ ONE),EPG 未提供 <icon>,,JP-I,pw.JP.fujione
+020 Fuji TV TWO (フジテレビ TWO),EPG 未提供 <icon>,,JP-I,pw.JP.fujitwo
+021 Fuji TV NEXT (フジテレビ NEXT),EPG 未提供 <icon>,,JP-I,pw.JP.fujinext
+022 Kansai TV (関西テレビ),EPG 未提供 <icon>,,JP-I,0
+024 Nihon Eiga Senmon (日本映画専門チャンネル),EPG 未提供 <icon>,,JP-I,pw.JP.bs.nihoneiga
+025 Yomiuri TV (読売テレビ),EPG 未提供 <icon>,,JP-I,0
+026 NTV G+ (日テレG+),EPG 未提供 <icon>,,JP-I,pw.JP.ntvgplus
+027 NTV NEWS24 (日テレNEWS24),EPG 未提供 <icon>,,JP-I,pw.JP.ntvnews24
+029 TV Asahi Channel 1 (テレ朝チャンネル1),EPG 未提供 <icon>,,JP-I,pw.JP.tvasahi1
+030 TV Asahi Channel 2 (テレ朝チャンネル2),EPG 未提供 <icon>,,JP-I,pw.JP.tvasahi2
+032 MBS TV (毎日放送),EPG 未提供 <icon>,,JP-I,0
+034 Kids Station (キッズステーション),EPG 未提供 <icon>,,JP-I,pw.JP.kidsstation
+035 NHK Educational TV (NHK Eテレ),EPG 未提供 <icon>,,JP-I,pw.JP.nhk.e
+036 Eisei Gekijo (衛星劇場),EPG 未提供 <icon>,,JP-I,pw.JP.eiseigekijo
+038 MUSIC ON! TV (MUSIC ON! TV),EPG 未提供 <icon>,,JP-I,0
+039 Tabi Channel (旅チャンネル),EPG 未提供 <icon>,,JP-I,pw.JP.tabich
+042 Sports Live+ (スポーツライブ＋),EPG 未提供 <icon>,,JP-I,pw.JP.sportsliveplus
+044 Shop Channel (ショップチャンネル),EPG 未提供 <icon>,,JP-I,pw.JP.shopchannel
+045 QVC Japan (QVCジャパン),EPG 未提供 <icon>,,JP-I,pw.JP.qvc
+046 Weathernews (ウェザーニュース),EPG 未提供 <icon>,,JP-I,0
+047 JapaNews24 (JapaNews24),EPG 未提供 <icon>,,JP-I,0
+"[JP-II] 01 ""キャンプ""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 02 ""アニメ""",EPG 未提供 <icon>,,JP-II,pw.JP.atx
+"[JP-II] 03 ""韓流""",EPG 未提供 <icon>,,JP-II,pw.JP.homedrama
+"[JP-II] 04 ""ｱｼﾞｱﾄﾞﾗﾏ""",EPG 未提供 <icon>,,JP-II,pw.JP.asiadrama
+"[JP-II] 05 ""九州""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 06 ""ﾌｧｯｼｮﾝ""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 07 ""ビジネス""",EPG 未提供 <icon>,,JP-II,pw.JP.nikkeicnbc
+"[JP-II] 08 ""ゴルフ""",EPG 未提供 <icon>,,JP-II,pw.JP.golfnetwork
+"[JP-II] 09 ""時代劇""",EPG 未提供 <icon>,,JP-II,pw.JP.jidaigeki
+"[JP-II] 10 ""落語""",EPG 未提供 <icon>,,JP-II,pw.JP.yose
+"[JP-II] 11 ""北海道""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 12 ""東海""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 13 ""料理""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 14 ""囲碁・将棋""",EPG 未提供 <icon>,,JP-II,pw.JP.igoshogi
+"[JP-II] 15 ""ｴﾝﾀﾒﾆｭｰｽ""",EPG 未提供 <icon>,,JP-II,pw.JP.entametele
+"[JP-II] 16 ""ペット""",EPG 未提供 <icon>,,JP-II,0
+"[JP-II] 17 ""旅行""",EPG 未提供 <icon>,,JP-II,pw.JP.tabich
+"[JP-II] 18 ""バラエティ""",EPG 未提供 <icon>,,JP-II,0
+[Indonesia] 019 MGN,EPG 未提供 <icon>,,ID,dens.magnachannel
+[Indonesia] 019 MGN (a),EPG 未提供 <icon>,,ID,dens.magnachannel
+0118 Uvagut TV,EPG 未提供 <icon>,,CA-II,pw.CA.uvagut.tv
+0124 Yes TV Calgary,EPG 未提供 <icon>,,CA-II,pw.CA.yes.tv.calgary
+0127 TWN Calgary,EPG 未提供 <icon>,,CA-II,pw.CA.the.weather.network.canada
+0128 TWN AB,EPG 未提供 <icon>,,CA-II,pw.CA.the.weather.network.canada
+0145 CW LA,EPG 未提供 <icon>,,CA-II,0
+0200 CBC Halifax,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.halifax
+0201 CBC Toronto,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.toronto
+0202 CBC Winnipeg,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.winnipeg
+0203 CBC Edmonton,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.edmonton
+0205 CBC Vancouver,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.vancouver
+0208 CTV Winnipeg,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.winnipeg
+0209 CTV Montreal,EPG 未提供 <icon>,,CA-II,pw.CA.citytv.montreal
+0210 CTV Halifax,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.halifax
+0211 CTV Toronto,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.toronto
+0212 CTV Edmonton,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.edmonton
+0214 CTV Vancouver,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.vancouver
+0220 Global Halifax,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.halifax
+0221 Global Toronto,EPG 未提供 <icon>,,CA-II,pw.CA.global.toronto
+0222 Global Edmonton,EPG 未提供 <icon>,,CA-II,pw.CA.global.edmonton
+0224 Global Vancouver,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.vancouver
+0230 Citytv Toronto,EPG 未提供 <icon>,,CA-II,pw.CA.citytv.toronto
+0231 Citytv Edmonton,EPG 未提供 <icon>,,CA-II,pw.CA.citytv.edmonton
+0233 Citytv Vancouver,EPG 未提供 <icon>,,CA-II,pw.CA.citytv.vancouver
+0240 NTV STJN,EPG 未提供 <icon>,,CA-II,pw.CA.ntv
+0250 ABC Boston,EPG 未提供 <icon>,,CA-II,0
+0255 CBS Boston,EPG 未提供 <icon>,,CA-II,0
+0260 WBTS NBC,EPG 未提供 <icon>,,CA-II,pw.CA.wbts.cd
+0265 FOX Boston,EPG 未提供 <icon>,,CA-II,0
+0270 PBS Boston,EPG 未提供 <icon>,,CA-II,0
+0275 MyTV New York HD,EPG 未提供 <icon>,,CA-II,pw.CA.ytv
+0280 WSBK MyTV TV38 Boston,EPG 未提供 <icon>,,CA-II,pw.CA.ytv
+0285 CW Chicago,EPG 未提供 <icon>,,CA-II,pw.CA.wgn
+0286 CW New York,EPG 未提供 <icon>,,CA-II,0
+0300 A&E Canada,EPG 未提供 <icon>,,CA-II,pw.CA.a.and.e.canada
+0301 Showcase,EPG 未提供 <icon>,,CA-II,pw.CA.showcase.canada
+0302 CTV Drama Channel,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.drama
+0306 Home Network,EPG 未提供 <icon>,,CA-II,pw.CA.home.network
+0308 Home & Garden TV,EPG 未提供 <icon>,,,pw.CA.home.and.garden.television
+0312 Magnolia,EPG 未提供 <icon>,,CA-II,pw.CA.magnolia.network
+0313 Flavour Network,EPG 未提供 <icon>,,CA-II,pw.CA.flavour.network
+0314 Food Network,EPG 未提供 <icon>,,CA-II,pw.CA.food.network
+0315 CTV Life Channel,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.life
+0328 W Network West,EPG 未提供 <icon>,,CA-II,pw.CA.w.network
+0329 W Network East,EPG 未提供 <icon>,,CA-II,pw.CA.w.network
+0331 Slice,EPG 未提供 <icon>,,CA-II,pw.CA.slice
+0332 Bravo,EPG 未提供 <icon>,,CA-II,pw.CA.bravo.canada
+0333 E Canada,EPG 未提供 <icon>,,CA-II,pw.CA.lifetime
+0347 OUT tv,EPG 未提供 <icon>,,CA-II,pw.CA.outtv
+0348 OUTTV Pacific,EPG 未提供 <icon>,,CA-II,pw.CA.outtv
+0349 One,EPG 未提供 <icon>,,CA-II,pw.CA.one.soccer
+0355 Cottage Life,EPG 未提供 <icon>,,CA-II,pw.CA.cottage.life
+0356 Rural Channel,EPG 未提供 <icon>,,CA-II,pw.CA.aquarium
+0359 Wild TV,EPG 未提供 <icon>,,CA-II,pw.CA.wild.tv
+0360 RFD TV,EPG 未提供 <icon>,,CA-II,0
+0361 Sportsman Channel,EPG 未提供 <icon>,,CA-II,pw.CA.sportsman
+0370 GSN,EPG 未提供 <icon>,,CA-II,pw.CA.game.show.network
+0372 GameTV,EPG 未提供 <icon>,,CA-II,pw.CA.gametv.canada
+0375 BBC First,EPG 未提供 <icon>,,CA-II,pw.CA.bbc.first
+0378 Oxygen True Crime,EPG 未提供 <icon>,,CA-II,pw.CA.oxygen.true.crime
+0382 T+E,EPG 未提供 <icon>,,CA-II,pw.CA.t.e
+0392 CTV Sci-Fi Channel,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.sci.fi
+0393 FX East,EPG 未提供 <icon>,,CA-II,pw.CA.fx
+0394 FXX East,EPG 未提供 <icon>,,CA-II,pw.CA.fx
+0395 FXX West,EPG 未提供 <icon>,,CA-II,pw.CA.fx
+0396 FX West,EPG 未提供 <icon>,,CA-II,pw.CA.fx
+0406 Crave 1 West,EPG 未提供 <icon>,,CA-II,pw.CA.crave.1.west
+0407 Crave 2 West,EPG 未提供 <icon>,,CA-II,pw.CA.crave.2.west
+0408 Crave 3 West,EPG 未提供 <icon>,,CA-II,pw.CA.crave.3.west
+0409 Crave 1 East,EPG 未提供 <icon>,,CA-II,pw.CA.crave1
+0417 Super Channel Fuse,EPG 未提供 <icon>,,CA-II,pw.CA.super.fuse
+0418 Super Channel Heart & Home,EPG 未提供 <icon>,,,pw.CA.super.heart.and.home
+0419 Super Channel Vault,EPG 未提供 <icon>,,CA-II,pw.CA.super.vault
+0420 Super Channel Quest,EPG 未提供 <icon>,,CA-II,pw.CA.super.quest
+0426 Hollywood Suite 70s+,EPG 未提供 <icon>,,CA-II,pw.CA.hollywood.suite.70s
+0427 Hollywood Suite 80s & 90s,EPG 未提供 <icon>,,,pw.CA.hollywood.suite.80s.and.90s
+0428 Hollywood Suite 2000s,EPG 未提供 <icon>,,CA-II,pw.CA.hollywood.suite.2000s
+0429 Hollywood Suite 2010s+,EPG 未提供 <icon>,,CA-II,pw.CA.hollywood.suite.2010s
+0431 STARZ 1 West,EPG 未提供 <icon>,,CA-II,pw.CA.starz.1.west
+0432 STARZ 2 West,EPG 未提供 <icon>,,CA-II,pw.CA.starz.2.west
+0445 Movietime,EPG 未提供 <icon>,,CA-II,pw.CA.movietime
+0449 Adult Swim,EPG 未提供 <icon>,,CA-II,pw.CA.adult.swim
+0457 Rewind,EPG 未提供 <icon>,,CA-II,pw.CA.rewind
+0460 Silverscreen,EPG 未提供 <icon>,,CA-II,pw.CA.silver.screen.classics
+0462 TCM,EPG 未提供 <icon>,,CA-II,pw.CA.turner.classic.movies.canada
+0500 CTV Comedy Channel East,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.comedy
+0501 CTV Comedy Channel West,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.comedy.west
+0504 DTour,EPG 未提供 <icon>,,CA-II,pw.CA.dtour
+0506 Dejaview,EPG 未提供 <icon>,,CA-II,pw.CA.deja.view
+0511 Peachtree,EPG 未提供 <icon>,,CA-II,pw.CA.wp.cable
+0555 CMT,EPG 未提供 <icon>,,CA-II,pw.CA.country.music.television
+0557 MUCH,EPG 未提供 <icon>,,CA-II,pw.CA.mu.music
+0580 Stingray Vibe,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.vibe
+0581 Stingray Loud,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.loud
+0582 Stingray Retro,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.retro
+0583 Stingray Country,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.country
+0585 Stingray Classica,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.alternative
+0600 YTV East,EPG 未提供 <icon>,,CA-II,pw.CA.ytv
+0601 Treehouse,EPG 未提供 <icon>,,CA-II,pw.CA.treehouse
+0606 Disney West,EPG 未提供 <icon>,,CA-II,pw.CA.hpitv.west
+0607 Disney East,EPG 未提供 <icon>,,CA-II,pw.CA.omni.east
+0613 YTVP HD,EPG 未提供 <icon>,,CA-II,pw.CA.ytvp
+0627 Boomerang Network Canada,EPG 未提供 <icon>,,CA-II,pw.CA.boomerang.network.canada
+0700 National Geographic,EPG 未提供 <icon>,,CA-II,pw.CA.national.geographic.canada
+0701 USA Network,EPG 未提供 <icon>,,CA-II,pw.CA.usa.network
+0702 CTV Nature,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.nature
+0704 History West,EPG 未提供 <icon>,,CA-II,pw.CA.history
+0705 History East,EPG 未提供 <icon>,,CA-II,pw.CA.history.television
+0706 H2,EPG 未提供 <icon>,,CA-II,pw.CA.history.2
+0711 CTV Speed,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.speed
+0715 Smithsonian Channel,EPG 未提供 <icon>,,CA-II,pw.CA.smithsonian
+0721 CTV Wild,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.wild
+0723 National Geographic Wild,EPG 未提供 <icon>,,CA-II,pw.CA.national.geographic.wild.canada
+0730 Water,EPG 未提供 <icon>,,CA-II,pw.CA.cottage.life
+0731 Documentary,EPG 未提供 <icon>,,CA-II,pw.CA.documentary
+0750 Mezzo,EPG 未提供 <icon>,,CA-II,pw.CA.z.470775
+0752 Museum,EPG 未提供 <icon>,,CA-II,0
+0800 CBC News Network,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.news.network
+0801 CTV News Channel,EPG 未提供 <icon>,,CA-II,pw.CA.ctv.news
+0804 MS NOW,EPG 未提供 <icon>,,CA-II,0
+0815 BNN Bloomberg,EPG 未提供 <icon>,,CA-II,pw.CA.bnn.bloomberg
+0819 HLN,EPG 未提供 <icon>,,CA-II,pw.CA.hln
+0834 CGTN News,EPG 未提供 <icon>,,CA-II,openepg.CGTN.th
+0841 CPAC English,EPG 未提供 <icon>,,CA-II,pw.CA.cable.public.affairs
+0842 News Forum West HD,EPG 未提供 <icon>,,CA-II,pw.CA.the.news.forum
+0843 Alberta Legislature,EPG 未提供 <icon>,,CA-II,pw.CA.ontario.legislature
+0845 Global BC1,EPG 未提供 <icon>,,CA-II,pw.CA.global.bc
+0870 Miracle Channel,EPG 未提供 <icon>,,CA-II,pw.CA.the.miracle.cjil
+0871 Vision TV,EPG 未提供 <icon>,,CA-II,pw.CA.vision.tv
+0872 Daystar,EPG 未提供 <icon>,,CA-II,pw.CA.daystar.canada
+0873 Salt and Light,EPG 未提供 <icon>,,CA-II,0
+0875 Faith TV,EPG 未提供 <icon>,,CA-II,0
+0888 AMI TV,EPG 未提供 <icon>,,CA-II,pw.CA.ami.audio
+0900 TSN 1,EPG 未提供 <icon>,,CA-II,pw.CA.tsn.1
+0901 TSN 2,EPG 未提供 <icon>,,CA-II,pw.CA.tsn.2
+0902 TSN 3,EPG 未提供 <icon>,,CA-II,pw.CA.tsn.3
+0903 TSN 4,EPG 未提供 <icon>,,CA-II,pw.CA.tsn.4
+0904 TSN 5,EPG 未提供 <icon>,,CA-II,pw.CA.tsn.5
+0911 Sportsnet West,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.west
+0912 Sportsnet 1,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet
+0913 Sportsnet Oilers,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet
+0914 Sportsnet Flames,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet
+0915 Sportsnet Pacific,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet
+0916 Sportsnet Ontario,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.ontario
+0917 Sportsnet East,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.east
+0918 Sportsnet 360,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.360
+0924 Game Plus,EPG 未提供 <icon>,,CA-II,pw.CA.game.10
+0925 Golf Channel,EPG 未提供 <icon>,,CA-II,pw.CA.golf
+0926 NFL Network,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.network.alt.canadian.feed
+0937 NBA TV Canada,EPG 未提供 <icon>,,CA-II,pw.CA.nba.tv.canada
+0945 Fight,EPG 未提供 <icon>,,CA-II,pw.CA.the.fight.network
+0960 FOX Sports Racing,EPG 未提供 <icon>,,CA-II,pw.CA.fox.sports.racing
+0962 REV TV,EPG 未提供 <icon>,,CA-II,pw.CA.rev.tv.canada
+0971 Cowboy Channel,EPG 未提供 <icon>,,CA-II,pw.CA.aquarium
+0980 One Soccer,EPG 未提供 <icon>,,CA-II,pw.CA.one.soccer
+0983 BeIN Sports,EPG 未提供 <icon>,,CA-II,pw.CA.bein.sports
+1001 Sportsnet World,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.world
+1002 SNET World 1 HD,EPG 未提供 <icon>,,CA-II,pw.CA.sportsnet.world
+1003 SNET World 2 HD,EPG 未提供 <icon>,,CA-II,0
+1004 SNET World 3 HD,EPG 未提供 <icon>,,CA-II,0
+1005 SNET World 4 HD,EPG 未提供 <icon>,,CA-II,0
+1101 NHL Center Ice 1,EPG 未提供 <icon>,,CA-II,0
+1102 NHL Center Ice 2,EPG 未提供 <icon>,,CA-II,0
+1103 NHL Center Ice 3,EPG 未提供 <icon>,,CA-II,0
+1104 NHL Center Ice 4,EPG 未提供 <icon>,,CA-II,0
+1105 NHL Center Ice 5,EPG 未提供 <icon>,,CA-II,0
+1106 NHL Center Ice 6,EPG 未提供 <icon>,,CA-II,0
+1107 NHL Center Ice 7,EPG 未提供 <icon>,,CA-II,0
+1108 NHL Center Ice 8,EPG 未提供 <icon>,,CA-II,0
+1109 NHL Center Ice 9,EPG 未提供 <icon>,,CA-II,0
+1110 NHL Center Ice 10,EPG 未提供 <icon>,,CA-II,0
+1111 NHL Center Ice 11,EPG 未提供 <icon>,,CA-II,0
+1112 NHL Center Ice 12,EPG 未提供 <icon>,,CA-II,0
+1113 NHL Center Ice 13,EPG 未提供 <icon>,,CA-II,0
+1114 NHL Center Ice 14,EPG 未提供 <icon>,,CA-II,0
+1115 NHL Center Ice 15,EPG 未提供 <icon>,,CA-II,0
+1116 NHL Center Ice 16,EPG 未提供 <icon>,,CA-II,0
+1301 MLB Extra Innings 1,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.1
+1302 MLB Extra Innings 2,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.2
+1303 MLB Extra Innings 3,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.3
+1304 MLB Extra Innings 4,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.4
+1305 MLB Extra Innings 5,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.5
+1306 MLB Extra Innings 6,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.6
+1307 MLB Extra Innings 7,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.7
+1308 MLB Extra Innings 8,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.8
+1309 MLB Extra Innings 9,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.9
+1310 MLB Extra Innings 10,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.1
+1311 MLB Extra Innings 11,EPG 未提供 <icon>,,CA-II,pw.CA.mlb.extra.innings.1
+1401 NBA League Pass 1,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.1
+1402 NBA League Pass 2,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.2
+1403 NBA League Pass 3,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.3
+1404 NBA League Pass 4,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.4
+1405 NBA League Pass 5,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.5
+1406 NBA League Pass 6,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.6
+1407 NBA League Pass 7,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.7
+1408 NBA League Pass 8,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.8
+1409 NBA League Pass 9,EPG 未提供 <icon>,,CA-II,pw.CA.nba.league.pass.9
+1501 NFL Sunday Ticket 1,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl1
+1502 NFL Sunday Ticket 2,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl2
+1503 NFL Sunday Ticket 3,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl3
+1504 NFL Sunday Ticket 4,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl4
+1505 NFL Sunday Ticket 5,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl5
+1506 NFL Sunday Ticket 6,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl6
+1507 NFL Sunday Ticket 7,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl7
+1508 NFL Sunday Ticket 8,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl8
+1509 NFL Sunday TIcket 9,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl9
+1510 NFL Sunday Ticket 10,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl10
+1511 NFL Sunday Ticket 11,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl11
+1512 NFL Sunday Ticket 12,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl12
+1513 NFL Sunday Ticket 13,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl13
+1514 NFL Sunday Ticket 14,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl14
+1515 NFL Sunday Ticket 15,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl15
+1516 NFL Sunday Ticket 16,EPG 未提供 <icon>,,CA-II,pw.CA.nfl.sunday.ticket.nfl16
+2001 ICI Alberta,EPG 未提供 <icon>,,CA-II,pw.CA.ici.artv
+2002 ICI Montreal,EPG 未提供 <icon>,,CA-II,pw.CA.citytv.montreal
+2003 ICI Toronto,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.toronto
+2005 TVA Ouest,EPG 未提供 <icon>,,CA-II,pw.CA.tva
+2006 TVA Montreal East,EPG 未提供 <icon>,,CA-II,pw.CA.tva
+2007 Noovo Québec,EPG 未提供 <icon>,,CA-II,pw.CA.noovo
+2008 Canal D,EPG 未提供 <icon>,,CA-II,pw.CA.canal.d
+2009 Canal Vie,EPG 未提供 <icon>,,CA-II,pw.CA.le.canal.vie
+2010 Zeste,EPG 未提供 <icon>,,CA-II,pw.CA.zeste
+2011 ARTV,EPG 未提供 <icon>,,CA-II,pw.CA.ici.artv.canada
+2013 ADDIK,EPG 未提供 <icon>,,CA-II,pw.CA.addik
+2015 Evasion,EPG 未提供 <icon>,,CA-II,pw.CA.canal.evasion
+2017 Historia,EPG 未提供 <icon>,,CA-II,pw.CA.historia
+2019 Z Tele,EPG 未提供 <icon>,,CA-II,pw.CA.z.470775
+2025 TFO,EPG 未提供 <icon>,,CA-II,pw.CA.tfo
+2032 QUB,EPG 未提供 <icon>,,CA-II,0
+2033 Télétoon,EPG 未提供 <icon>,,CA-II,pw.CA.t.l.toon.fran.ais
+2040 ELLE FICTIONS,EPG 未提供 <icon>,,CA-II,pw.CA.elle.fictions
+2041 MAX,EPG 未提供 <icon>,,CA-II,pw.CA.max
+2045 Stingray Hits,EPG 未提供 <icon>,,CA-II,pw.CA.stingray.hits
+2046 Stingray Palmarès,EPG 未提供 <icon>,,CA-II,pw.CA.palmar.sadisq.par.stingray
+2050 Meteo Calgary,EPG 未提供 <icon>,,CA-II,pw.CA.cbc.calgary
+2051 CPAC Français,EPG 未提供 <icon>,,CA-II,pw.CA.cable.public.affairs
+2053 ICI RDI,EPG 未提供 <icon>,,CA-II,pw.CA.ici.rdi
+2055 LCN,EPG 未提供 <icon>,,CA-II,pw.CA.le.canal.nouvelles.tva
+2059 Séries Plus,EPG 未提供 <icon>,,CA-II,pw.CA.canal.s.ries.plus
+2070 Planète+,EPG 未提供 <icon>,,CA-II,0
+2071 Explora,EPG 未提供 <icon>,,CA-II,pw.CA.ici.explora
+2080 RDS,EPG 未提供 <icon>,,CA-II,pw.CA.rds2
+2081 RDS2 West,EPG 未提供 <icon>,,CA-II,pw.CA.rds2
+2084 RDSi,EPG 未提供 <icon>,,CA-II,pw.CA.rds2
+2085 TVA Sports 1,EPG 未提供 <icon>,,CA-II,pw.CA.tva.sports
+2086 TVA Sports 2,EPG 未提供 <icon>,,CA-II,pw.CA.tva.sports.2
+2088 Unis West,EPG 未提供 <icon>,,CA-II,pw.CA.hpitv.west
+2089 TV5 East,EPG 未提供 <icon>,,CA-II,pw.CA.omni.east
+2090 TV5 West,EPG 未提供 <icon>,,CA-II,pw.CA.hpitv.west
+2288 AMI Télé,EPG 未提供 <icon>,,CA-II,pw.CA.ami.t.l
+2303 ATN,EPG 未提供 <icon>,,CA-II,pw.CA.atn.colors
+2310 ATN Sony,EPG 未提供 <icon>,,CA-II,pw.CA.atn.colors
+2315 ATN Aapka,EPG 未提供 <icon>,,CA-II,pw.CA.atn.colors
+2318 Zee TV Canada,EPG 未提供 <icon>,,CA-II,pw.CA.zee.tv.canada
+2350 NEWS ONLY,EPG 未提供 <icon>,,CA-II,0
+2363 NDTV 24X7,EPG 未提供 <icon>,,CA-II,pw.CA.ndtv.24x7.canada
+2371 ATN CBN,EPG 未提供 <icon>,,CA-II,pw.CA.atn.colors
+2391 ATN Movies,EPG 未提供 <icon>,,CA-II,pw.CA.atn.colors
+2400 Halla Bol,EPG 未提供 <icon>,,CA-II,0
+2418 Channel Y,EPG 未提供 <icon>,,CA-II,pw.CA.aquarium
+2423 Channel Punjabi,EPG 未提供 <icon>,,CA-II,pw.CA.aquarium
+2424 Sanjha TV,EPG 未提供 <icon>,,CA-II,0
+2601 FILIPINO TV,EPG 未提供 <icon>,,CA-II,pw.CA.filipino.tv
+2605 Kapatid,EPG 未提供 <icon>,,CA-II,0
+2653 Rai Italia,EPG 未提供 <icon>,,CA-II,pw.CA.rai.italia
+2655 Canale Quattro,EPG 未提供 <icon>,,CA-II,pw.CA.mediaset.italia.canada
+2657 Mediaset Italia Canada,EPG 未提供 <icon>,,CA-II,pw.CA.mediaset.italia.canada
+2690 SIC Noticias,EPG 未提供 <icon>,,CA-II,0
+2692 FPTV,EPG 未提供 <icon>,,CA-II,0
+2701 Afroglobal,EPG 未提供 <icon>,,CA-II,0
+2813 CCTV,EPG 未提供 <icon>,,CA-II,openepg.CCTV4.th
+2828 WOW TV,EPG 未提供 <icon>,,CA-II,0
+2831 Talentvision,EPG 未提供 <icon>,,CA-II,pw.CA.talentvision.vancouver
+2835 Phoenix,EPG 未提供 <icon>,,CA-II,pw.CA.phoenix.satellite.tv
+2836 CNTV,EPG 未提供 <icon>,,CA-II,pw.CA.ntv
+2863 New Tang Dynasty Canada (Pacific),EPG 未提供 <icon>,,CA-II,0
+2911 All TV West,EPG 未提供 <icon>,,CA-II,0
+2912 All TV K West,EPG 未提供 <icon>,,CA-II,0
+2923 Nippon,EPG 未提供 <icon>,,CA-II,0
+[NBA LIVE] 01 NBA TV (APP),EPG 未提供 <icon>,,Sports-NBA,pw.CA.nba.tv.canada
+001 [動畫-三語]聖鬥士星矢(1986-2008),EPG 未提供 <icon>,,ETH,0
+002 [動畫-三語]棋魂/棋灵王2001(1-75全+OVA完結篇),EPG 未提供 <icon>,,ETH,0
+003 [電影-雙語]碟中諜/不可能的任務(1996-2025),EPG 未提供 <icon>,,ETH,0
+004 [電影-多語]成龍電影合輯,EPG 未提供 <icon>,,ETH,0
+005 [電影-雙語]漫威電影宇宙,EPG 未提供 <icon>,,ETH,0
+006 [動畫-三語]哆啦A夢電影(1980-2024),EPG 未提供 <icon>,,ETH,0
+007 [動畫-三語]龍珠GT(001-064),EPG 未提供 <icon>,,ETH,0
+008 [動畫-雙語]龍珠改(099-167),EPG 未提供 <icon>,,ETH,0
+009 [動畫-三語]龍珠改(001-098),EPG 未提供 <icon>,,ETH,0
+010 [動畫-三語]蜡笔小新電影(1993-2024),EPG 未提供 <icon>,,ETH,0
+011 [動畫-普]蜡笔小新(1992),EPG 未提供 <icon>,,ETH,0
+012 [動畫-普]哆啦A夢TV版(1979-2005),EPG 未提供 <icon>,,ETH,0
+013 [動畫-四語]龍珠Z(001-100),EPG 未提供 <icon>,,ETH,0
+014 [動畫-四語]龍珠Z(101-200),EPG 未提供 <icon>,,ETH,0
+015 [動畫-四語]龍珠Z(201-291),EPG 未提供 <icon>,,ETH,0
+016 [動畫-日]龍珠超(001-131),EPG 未提供 <icon>,,ETH,0
+017 [動畫-日]火影忍者(001-180),EPG 未提供 <icon>,,ETH,0
+018 [動畫-日]火影忍者(181-360),EPG 未提供 <icon>,,ETH,0
+019 [動畫-日]火影忍者(361-540),EPG 未提供 <icon>,,ETH,0
+020 [動畫-日]火影忍者(541-720),EPG 未提供 <icon>,,ETH,0
+021 [動畫-雙語]火影忍者疾風傳(001-166),EPG 未提供 <icon>,,ETH,0
+022 [動畫-雙語]火影忍者疾風傳(167-332),EPG 未提供 <icon>,,ETH,0
+023 [動畫-雙語]火影忍者疾風傳(333-500),EPG 未提供 <icon>,,ETH,0
+024 [動畫-雙語]犬夜叉(001-167),EPG 未提供 <icon>,,ETH,0
+025 [動畫-三語]龍珠(001-153),EPG 未提供 <icon>,,ETH,0
+026 [動畫-三語]灌籃高手(001-101),EPG 未提供 <icon>,,ETH,0
+027 [動畫-三語]幽遊白書(001-112),EPG 未提供 <icon>,,ETH,0
+028 [動畫-三語]亂馬½(001-161),EPG 未提供 <icon>,,ETH,0
+029 [電影-雙語]周星馳電影合輯,EPG 未提供 <icon>,,ETH,0
+030 [電影-雙語]古惑仔系列,EPG 未提供 <icon>,,ETH,0
+031 [電影-雙語]神鬼認證(S1-S5),EPG 未提供 <icon>,,ETH,0
+032 [電影-雙語]玩命關頭(S1-S10&特別行動),EPG 未提供 <icon>,,ETH,0
+033 [電影-雙語]變形金剛(S1-S7),EPG 未提供 <icon>,,ETH,0
+034 [電影-雙語]暮光之城(S1-S5),EPG 未提供 <icon>,,ETH,0
+035 [電影-三語]哈利波特(S1-S8),EPG 未提供 <icon>,,ETH,0
+036 [電影-英]電鋸驚魂(S1-S10),EPG 未提供 <icon>,,ETH,0
+037 [港劇-雙語]我和殭屍有個約會-1,EPG 未提供 <icon>,,ETH,0
+038 [港劇-雙語]我和殭屍有個約會-2,EPG 未提供 <icon>,,ETH,0
+039 [港劇-雙語]我和殭屍有個約會-3,EPG 未提供 <icon>,,ETH,0
+040 [港劇-雙語]神鵰俠侶(古天樂),EPG 未提供 <icon>,,ETH,0
+041 [港劇-雙語]尋秦記(古天樂),EPG 未提供 <icon>,,ETH,0
+042 [港劇-雙語]勇探實錄(張家輝),EPG 未提供 <icon>,,ETH,0
+043 [港劇-粵]蓋世豪俠(周星馳),EPG 未提供 <icon>,,ETH,0
+044 [港劇-粵]他來自江湖(周星馳),EPG 未提供 <icon>,,ETH,0
+045 [港劇-粵]鬥氣一族(周星馳),EPG 未提供 <icon>,,ETH,0
+046 [港劇-粵]孖仔孖心肝(周星馳),EPG 未提供 <icon>,,ETH,0
+047 [港劇-粵]男親女愛(黃子華),EPG 未提供 <icon>,,ETH,0
+048 [港劇-粵]絕代商嬌(黃子華),EPG 未提供 <icon>,,ETH,0
+049 [港劇-粵]棟篤神探(黃子華),EPG 未提供 <icon>,,ETH,0
+050 [港劇-粵]My盛Lady(黃子華),EPG 未提供 <icon>,,ETH,0
+051 [港劇-粵]奸人堅(黃子華),EPG 未提供 <icon>,,ETH,0
+052 [港劇-粵]溏心風暴Ⅰ,EPG 未提供 <icon>,,ETH,0
+053 [港劇-粵]溏心風暴Ⅱ,EPG 未提供 <icon>,,ETH,0
+054 [港劇-粵]溏心風暴Ⅲ,EPG 未提供 <icon>,,ETH,0
+055 [美劇-英]權力的遊戲(S1-S2),EPG 未提供 <icon>,,ETH,0
+056 [美劇-英]權力的遊戲(S3-S4),EPG 未提供 <icon>,,ETH,0
+057 [美劇-英]權力的遊戲(S5-S6),EPG 未提供 <icon>,,ETH,0
+058 [美劇-英]權力的遊戲(S7-S8),EPG 未提供 <icon>,,ETH,0
+059 [美劇-英]絕命毒師(S1-S3),EPG 未提供 <icon>,,ETH,0
+060 [美劇-英]絕命毒師(S4-S5),EPG 未提供 <icon>,,ETH,0
+061 [美劇-英]斯巴達克斯(S1-S4),EPG 未提供 <icon>,,ETH,0
+062 [美劇-英]越獄(S1),EPG 未提供 <icon>,,ETH,0
+063 [美劇-英]越獄(S2),EPG 未提供 <icon>,,ETH,0
+064 [美劇-英]越獄(S3-S4),EPG 未提供 <icon>,,ETH,0
+065 [美劇-英]越獄(S5)&最後一越,EPG 未提供 <icon>,,ETH,0
+066 [美劇-英]絕命律師(S1-S3),EPG 未提供 <icon>,,ETH,0
+067 [美劇-英]絕命律師(S4-S6),EPG 未提供 <icon>,,ETH,0
+068 [美劇-英]火線重案組(S1-S5),EPG 未提供 <icon>,,ETH,0
+069 [紀錄片-英]Ed Stafford 歷險記,EPG 未提供 <icon>,,ETH,0
