@@ -8,26 +8,32 @@
 ## 链接格式
 
 ```
-https://ivan8794.github.io/epg-logos/logos/{name}.png      ← GitHub Pages（推荐）
-https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/{name}.png  ← 备用直链
+https://ivan8794.github.io/epg-logos/logos/{name}.png                      ← 原文名称（推荐）
+https://ivan8794.github.io/epg-logos/logos/{name URL编码}.png              ← 编码形式，内容完全相同
+https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/{name}.png ← 备用直链
 ```
 
-`{name}` 就是 EPG 里的 `<display-name>` 原文，做 URL 百分号编码后使用。例如：
+`{name}` 就是 EPG 里的 `<display-name>` 原文：中文、英文、数字、`[ ]`、`|`、`+`、空格全部原样保留，不做任何改写（文件名与链接一致）。例如：
 
-| EPG 名称 | 链接 |
+| EPG 名称 | 台标链接 |
 | --- | --- |
-| `[TW-I] 02 NHK` | `https://ivan8794.github.io/epg-logos/logos/%5BTW-I%5D%2002%20NHK.png` |
-| `[TW-I] 04 東森新聞 HD` | `https://ivan8794.github.io/epg-logos/logos/%5BTW-I%5D%2004%20%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%20HD.png` |
-| `[myTV SUPER] 81 翡翠台&#124;H265&#124;字幕` | `https://ivan8794.github.io/epg-logos/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0%7CH265%7C%E5%AD%97%E5%B9%95.png` |
+| `[TW-I] 02 NHK` | `https://ivan8794.github.io/epg-logos/logos/[TW-I] 02 NHK.png` |
+| `[TW-I] 04 東森新聞 HD` | `https://ivan8794.github.io/epg-logos/logos/[TW-I] 04 東森新聞 HD.png` |
+| `Channel News Asia HD` | `https://ivan8794.github.io/epg-logos/logos/Channel News Asia HD.png` |
 
-不想自己拼 URL 的话，直接查索引表：
+名称里带 `|` 的频道（例：`[myTV SUPER] 81 翡翠台|H265|字幕`）同样原样保留，链接为 `.../logos/[myTV SUPER] 81 翡翠台|H265|字幕.png`。
+
+浏览器和绝大多数客户端会自动解码中文/空格，直接用原文链接即可。若某个客户端不会自动编码（把空格、`[` 原样发出导致 404），改用同一行的 URL 编码形式（`%5B`、`%20`、`%7C`…），指向的是同一个文件。
+
+不想自己拼 URL 的话，直接取现成清单：
 
 | 文件 | 用途 |
 | --- | --- |
-| `logos.json` | `{ "频道名": "完整台标链接" }`，直接按名称取值 |
+| `links.csv` | 频道名 → 台标链接，含原文链接与 URL 编码链接两列 |
+| `logos.json` | `{ "频道名": "完整台标链接" }`，程序直接按名称取值 |
 | `index.json` | 全量结构化清单（名称 / 链接 / 分组 / channel id / 原始图标源） |
+| `missing.csv` / `missing.json` | 没有台标的频道：图标源失效、EPG 无图标 |
 | `index.html` | 可视化浏览 + 搜索（Pages 打开即是台标墙） |
-| `missing.json` | EPG 里没有图标、或图标源下载失败的频道清单 |
 | `logos/` | 全部 `{name}.png` |
 
 ## 仓库结构
@@ -35,8 +41,9 @@ https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/{name}.png  ← 
 ```
 logos/                      # {display-name}.png
 scripts/build.py            # 从 EPG 抓取 → 下载图标 → 转 PNG → 生成索引
+scripts/make_lists.py       # 生成 links.csv / missing.csv 清单
 .github/workflows/update-logos.yml
-index.json / logos.json / missing.json / index.html
+index.json / logos.json / missing.json / index.html / links.csv / missing.csv
 ```
 
 ## 更新机制
@@ -58,7 +65,7 @@ EPG_URLS = [
 
 ## 已知情况
 
-- 当前 EPG 约 2470 条频道条目、2450 个不同名称、1067 个不同图标源；约 520 个频道在 EPG 里本身没有 `<icon>`，这些名称不会生成台标，只在 `missing.json` 的 `no_icon_in_epg` 里列出。
+- 当前 EPG 约 2470 条频道条目、2450 个不同名称、1067 个不同图标源；约 520 个频道在 EPG 里本身没有 `<icon>`，这些名称不会生成台标，只在 `missing.csv` / `missing.json` 里列出。
 - 同一名称在不同分组指向不同图标时，取先出现的那个，冲突记录在 `missing.json` 的 `name_conflicts`。
-- 第三方图标源（tvking、astro、wikia 等）可能失效，失败项记录在 `missing.json` 的 `download_failed`，已成功过的旧文件会保留，不会因为一次失败被删除。
-- 名称里的 `|` 在文件名里保留原样，URL 里编码为 `%7C`；如果要把仓库 clone 到 Windows 本地，含 `|` 的文件名无法落盘（GitHub 托管与 Pages 访问不受影响）。
+- 第三方图标源（tvking、astro、wikia 等）可能失效，失败项记录在 `missing.csv` / `missing.json`，已成功过的旧文件会保留，不会因为一次失败被删除。
+- 名称里的 `|` 在文件名里保留原样；如果要把仓库 clone 到 Windows 本地，含 `|` 的文件名无法落盘（GitHub 托管与 Pages 访问不受影响）。
