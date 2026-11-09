@@ -46,5 +46,7 @@ jobs:
             echo "没有变化，跳过提交"
           else
             git commit -m "chore: 更新台标 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
-            git push
+            # 远端可能有新提交，先 rebase 再推，避免 push 被拒绝
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
