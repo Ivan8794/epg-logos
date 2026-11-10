@@ -149,6 +149,7 @@
 [AIS] 029 MONOMAX SPORTS (โมโนแมกซ์ สปอร์ตส์),图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons6/.png,,trueid.mono
 [KR-I] 01 중화TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.중화tv
 [KR-I] 07 CJ 온스타일+,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.cj.온스타일
+[KR-I] 13 EBS1,图标源失效：HTTP 429: Too Many Requests (015d12c),https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1920px-EBS_1TV_Logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail,KR-I,skylife.ebs
 [KR-I] 22 매일경제TV,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.매일경제tv
 [KR-I] 25 ANIBOX,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.애니박스
 [KR-I] 34 히스토리,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,KR-I,skylife.히스토리
@@ -216,6 +217,7 @@
 [CRAVE] 09 Sego3,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc09.png,CA,pw.CA.super.cran.3
 [CRAVE] 10 Sego4,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons4/ucc10.png,CA,pw.CA.super.cran.4
 0114 APTN Languages,图标源失效：HTTP 404: Not Found,https://www.aptntv.ca/wp-content/themes/aptntv-main/images/APTN%20Languages%20logo-VERT%20COL.png,CA-II,pw.CA.aptn.languages
+0123 JoyTV BC,图标源失效：HTTP 429: Too Many Requests (015d12c),https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/500px-Joytvlogo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail,CA-II,pw.CA.ytv
 Miami TV Latino,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
 Miami TV Jenny Live,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0
 Miami TV Music,图标源失效：HTTP 404: Not Found,https://myeth-epg.github.io/icons5/0.png,Music,0

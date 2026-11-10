@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09 12:56:57",
+ "updated": "2026-11-10 19:27:19",
  "no_icon_in_epg": [
   "[TW-II] 2115 麥卡貝綜藝",
   "[TW-II] 2124 Hami大聯盟1台",
@@ -673,6 +673,7 @@
   "[AIS] 029 MONOMAX SPORTS (โมโนแมกซ์ สปอร์ตส์)",
   "[KR-I] 01 중화TV",
   "[KR-I] 07 CJ 온스타일+",
+  "[KR-I] 13 EBS1",
   "[KR-I] 22 매일경제TV",
   "[KR-I] 25 ANIBOX",
   "[KR-I] 34 히스토리",
@@ -740,6 +741,7 @@
   "[CRAVE] 09 Sego3",
   "[CRAVE] 10 Sego4",
   "0114 APTN Languages",
+  "0123 JoyTV BC",
   "Miami TV Latino",
   "Miami TV Jenny Live",
   "Miami TV Music",
@@ -827,6 +829,8 @@
   "https://myeth-epg.github.io/icons4/ucp29.png": "HTTP Error 404: Not Found",
   "https://myeth-epg.github.io/icons5/0.png": "HTTP Error 404: Not Found",
   "https://myeth-epg.github.io/icons6/.png": "HTTP Error 404: Not Found",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Joytvlogo.svg/500px-Joytvlogo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail": "HTTP Error 429: Too Many Requests (015d12c)",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/1920px-EBS_1TV_Logo.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail": "HTTP Error 429: Too Many Requests (015d12c)",
   "https://www.aptntv.ca/wp-content/themes/aptntv-main/images/APTN%20Languages%20logo-VERT%20COL.png": "HTTP Error 404: Not Found"
  },
  "name_conflicts": {
