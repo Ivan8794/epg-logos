@@ -282,15 +282,19 @@ TelusTV 119 Stingray Festival 4K,图标源失效：HTTP 404: Not Found,https://m
 110 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
 115 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
 116 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
-109 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
-111 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
-115 LIVE 2,EPG 未提供 <icon>,,SG-III,pw.SG.live.2.a
-109 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
-112 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
-116 LIVE 5,EPG 未提供 <icon>,,SG-III,pw.SG.live.5.a
-110 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
-113 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
-117 LIVE 6,EPG 未提供 <icon>,,SG-III,pw.SG.live.6.a
+109 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+110 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+111 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+112 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+113 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+114 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+115 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
+109 LIVE 5,EPG 未提供 <icon>,,SG-III,mewatch.live5
+112 LIVE 5,EPG 未提供 <icon>,,SG-III,mewatch.live5
+116 LIVE 5,EPG 未提供 <icon>,,SG-III,mewatch.live5
+110 LIVE 6,EPG 未提供 <icon>,,SG-III,mewatch.live6
+113 LIVE 6,EPG 未提供 <icon>,,SG-III,mewatch.live6
+117 LIVE 6,EPG 未提供 <icon>,,SG-III,mewatch.live6
 113 FIFA U-17 WWC Ch01,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifau17wwcch01
 114 FIFA U-17 WWC Ch02,EPG 未提供 <icon>,,SG-III,charm.mewatch.fifau17wwcch02
 109 MasterChef,EPG 未提供 <icon>,,SG-III,charm.mewatch.masterchef

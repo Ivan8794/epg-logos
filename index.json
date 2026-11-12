@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11 19:16:20",
+ "updated": "2026-11-12 19:33:19",
  "timezone": "UTC+8",
  "epg": [
   "https://myeth-epg.github.io/public/epg.a.xml"
  ],
  "base_url": "https://ivan8794.github.io/epg-logos/logos/",
- "count": 1680,
+ "count": 1671,
  "logos": [
   {
    "name": "[TW-I] 01 TAIWAN PLUS+",
@@ -5786,15 +5786,6 @@
    "source_icon": "https://myeth-epg.github.io/icons/黃金翡翠台.png"
   },
   {
-   "name": "[myTV SUPER] 81 翡翠台 4K",
-   "file": "logos/[myTV SUPER] 81 翡翠台 4K.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0%204K.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0%204K.png",
-   "group": "HK",
-   "channel_id": "pw.HK.翡翠台.tvb",
-   "source_icon": "https://myeth-epg.github.io/icons/tvb.jade.png"
-  },
-  {
    "name": "[myTV SUPER] 81 翡翠台",
    "file": "logos/[myTV SUPER] 81 翡翠台.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5BmyTV%20SUPER%5D%2081%20%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",
@@ -6218,28 +6209,10 @@
    "source_icon": "https://myeth-epg.github.io/icons/now96.png"
   },
   {
-   "name": "[NowTV] 96 ViuTVsix (a)",
-   "file": "logos/[NowTV] 96 ViuTVsix (a).png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%2096%20ViuTVsix%20(a).png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%2096%20ViuTVsix%20(a).png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.viutvsix",
-   "source_icon": "https://myeth-epg.github.io/icons/now96.png"
-  },
-  {
    "name": "[NowTV] 99 ViuTV",
    "file": "logos/[NowTV] 99 ViuTV.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%2099%20ViuTV.png",
    "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%2099%20ViuTV.png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.viutv",
-   "source_icon": "https://myeth-epg.github.io/icons/now99.png"
-  },
-  {
-   "name": "[NowTV] 99 ViuTV (a)",
-   "file": "logos/[NowTV] 99 ViuTV (a).png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%2099%20ViuTV%20(a).png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%2099%20ViuTV%20(a).png",
    "group": "HK-II",
    "channel_id": "charm.nowtv.viutv",
    "source_icon": "https://myeth-epg.github.io/icons/now99.png"
@@ -6488,28 +6461,10 @@
    "source_icon": "https://myeth-epg.github.io/icons/now332.png"
   },
   {
-   "name": "[NowTV] 332 新聞台 (a)",
-   "file": "logos/[NowTV] 332 新聞台 (a).png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20332%20%E6%96%B0%E8%81%9E%E5%8F%B0%20(a).png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20332%20%E6%96%B0%E8%81%9E%E5%8F%B0%20(a).png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.now新聞台",
-   "source_icon": "https://myeth-epg.github.io/icons/now332.png"
-  },
-  {
    "name": "[NowTV] 333 財經台",
    "file": "logos/[NowTV] 333 財經台.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20333%20%E8%B2%A1%E7%B6%93%E5%8F%B0.png",
    "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20333%20%E8%B2%A1%E7%B6%93%E5%8F%B0.png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.now財經台",
-   "source_icon": "https://myeth-epg.github.io/icons/now333.png"
-  },
-  {
-   "name": "[NowTV] 333 財經台 (a)",
-   "file": "logos/[NowTV] 333 財經台 (a).png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20333%20%E8%B2%A1%E7%B6%93%E5%8F%B0%20(a).png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20333%20%E8%B2%A1%E7%B6%93%E5%8F%B0%20(a).png",
    "group": "HK-II",
    "channel_id": "charm.nowtv.now財經台",
    "source_icon": "https://myeth-epg.github.io/icons/now333.png"
@@ -6740,15 +6695,6 @@
    "source_icon": "https://myeth-epg.github.io/icons/now630.png"
   },
   {
-   "name": "[NowTV] 630 Sports 精選 (a)",
-   "file": "logos/[NowTV] 630 Sports 精選 (a).png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20630%20Sports%20%E7%B2%BE%E9%81%B8%20(a).png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20630%20Sports%20%E7%B2%BE%E9%81%B8%20(a).png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.nowsports精選",
-   "source_icon": "https://myeth-epg.github.io/icons/now630.png"
-  },
-  {
    "name": "[NowTV] 631 Sports 1",
    "file": "logos/[NowTV] 631 Sports 1.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20631%20Sports%201.png",
@@ -6963,24 +6909,6 @@
    "group": "HK-II",
    "channel_id": "charm.nowtv.now668",
    "source_icon": "https://myeth-epg.github.io/icons/now668.png"
-  },
-  {
-   "name": "[NowTV] 680 Sports Plus",
-   "file": "logos/[NowTV] 680 Sports Plus.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20680%20Sports%20Plus.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20680%20Sports%20Plus.png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.nowsportsplus",
-   "source_icon": "https://myeth-epg.github.io/icons/now680.png"
-  },
-  {
-   "name": "[NowTV] 680 Sports Plus|比賽時開放",
-   "file": "logos/[NowTV] 680 Sports Plus|比賽時開放.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5BNowTV%5D%20680%20Sports%20Plus%7C%E6%AF%94%E8%B3%BD%E6%99%82%E9%96%8B%E6%94%BE.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5BNowTV%5D%20680%20Sports%20Plus%7C%E6%AF%94%E8%B3%BD%E6%99%82%E9%96%8B%E6%94%BE.png",
-   "group": "HK-II",
-   "channel_id": "charm.nowtv.nowsportsplus",
-   "source_icon": "https://myeth-epg.github.io/icons/now680.png"
   },
   {
    "name": "[NowTV] 683 Now Golf 2",
@@ -7395,15 +7323,6 @@
    "group": "MY-I",
    "channel_id": "pw.MY.tv2.astro",
    "source_icon": "https://myeth-epg.github.io/icons/tv2.png"
-  },
-  {
-   "name": "[astro] 103 TV3",
-   "file": "logos/[astro] 103 TV3.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5Bastro%5D%20103%20TV3.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5Bastro%5D%20103%20TV3.png",
-   "group": "MY",
-   "channel_id": "pw.MY.tv3.astro",
-   "source_icon": "https://myeth-epg.github.io/icons/tv3.png"
   },
   {
    "name": "[astro] 104 RIA HD",
@@ -7838,15 +7757,6 @@
    "source_icon": "https://myeth-epg.github.io/icons/kplus.png"
   },
   {
-   "name": "[astro] 396 K-Plus|H265|字幕",
-   "file": "logos/[astro] 396 K-Plus|H265|字幕.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5Bastro%5D%20396%20K-Plus%7CH265%7C%E5%AD%97%E5%B9%95.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5Bastro%5D%20396%20K-Plus%7CH265%7C%E5%AD%97%E5%B9%95.png",
-   "group": "MY",
-   "channel_id": "pw.MY.k.plus",
-   "source_icon": "https://myeth-epg.github.io/icons/kplus.png"
-  },
-  {
    "name": "[astro] 401 HITS MOVIES HD",
    "file": "logos/[astro] 401 HITS MOVIES HD.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/%5Bastro%5D%20401%20HITS%20MOVIES%20HD.png",
@@ -8158,15 +8068,6 @@
    "url": "https://ivan8794.github.io/epg-logos/logos/%5Bastro%5D%20701%20AXN%20HD.png",
    "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5Bastro%5D%20701%20AXN%20HD.png",
    "group": "MY-I",
-   "channel_id": "pw.MY.axn.astro",
-   "source_icon": "https://myeth-epg.github.io/icons/axn.png"
-  },
-  {
-   "name": "[astro] 701 AXN|H265|字幕",
-   "file": "logos/[astro] 701 AXN|H265|字幕.png",
-   "url": "https://ivan8794.github.io/epg-logos/logos/%5Bastro%5D%20701%20AXN%7CH265%7C%E5%AD%97%E5%B9%95.png",
-   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/%5Bastro%5D%20701%20AXN%7CH265%7C%E5%AD%97%E5%B9%95.png",
-   "group": "MY",
    "channel_id": "pw.MY.axn.astro",
    "source_icon": "https://myeth-epg.github.io/icons/axn.png"
   },
@@ -12729,6 +12630,24 @@
    "file": "logos/111 LIVE 1.png",
    "url": "https://ivan8794.github.io/epg-logos/logos/111%20LIVE%201.png",
    "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/111%20LIVE%201.png",
+   "group": "SG-III",
+   "channel_id": "charm.mewatch.live1",
+   "source_icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-1-sg.png"
+  },
+  {
+   "name": "112 LIVE 1",
+   "file": "logos/112 LIVE 1.png",
+   "url": "https://ivan8794.github.io/epg-logos/logos/112%20LIVE%201.png",
+   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/112%20LIVE%201.png",
+   "group": "SG-III",
+   "channel_id": "charm.mewatch.live1",
+   "source_icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-1-sg.png"
+  },
+  {
+   "name": "113 LIVE 1",
+   "file": "logos/113 LIVE 1.png",
+   "url": "https://ivan8794.github.io/epg-logos/logos/113%20LIVE%201.png",
+   "raw_url": "https://raw.githubusercontent.com/Ivan8794/epg-logos/main/logos/113%20LIVE%201.png",
    "group": "SG-III",
    "channel_id": "charm.mewatch.live1",
    "source_icon": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-1-sg.png"
