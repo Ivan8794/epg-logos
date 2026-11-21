@@ -277,11 +277,17 @@ TelusTV 119 Stingray Festival 4K,图标源失效：HTTP 404: Not Found,https://m
 [astro] 823 Astro Sports Plus 2,EPG 未提供 <icon>,,MY-I,0
 [astro] 834 GOLF PLUS,EPG 未提供 <icon>,,MY-I,0
 107 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
-108 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+108 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
 109 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+110 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+111 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+112 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
+108 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+109 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
 110 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
-115 SPL01,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl01
-116 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+111 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+112 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
+113 SPL02,EPG 未提供 <icon>,,SG-III,charm.mewatch.spl02
 109 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
 110 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
 111 LIVE 2,EPG 未提供 <icon>,,SG-III,mewatch.live2
